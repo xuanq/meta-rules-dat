@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "mdn.mozillademos.org",
+        "mozilla-ohttp.fastly-edge.com",
+        "ads-img.mozilla.org",
+        "ads.mozilla.org",
+        "incoming.telemetry.mozilla.org",
+        "incoming-telemetry.thunderbird.net"
+      ],
+      "domain_suffix": [
+        "mzl.la",
+        "firefoxusercontent.com",
+        "bugzilla.org",
+        "mozgcp.net",
+        "mozilla.ai",
+        "mozilla.com",
+        "mozilla.community",
+        "mozilla.net",
+        "mozilla.org",
+        "thunderbird.net",
+        "getpocket.com",
+        "extensionworkshop.com",
+        "mozillafoundation.org",
+        "mdn.dev",
+        "mdnplay.dev",
+        "mdnyalp.dev",
+        "seamonkey-project.org",
+        "firefox.com",
+        "mdn.allizom.net",
+        "mdn.mozit.cloud",
+        "developer.allizom.org"
+      ]
+    }
+  ]
+}
